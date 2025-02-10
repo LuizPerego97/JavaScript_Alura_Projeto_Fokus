@@ -22,6 +22,5 @@ JavaScript: Manipulação do DOM, controle de eventos e temporizador.
 ✔ Suporte a atalhos de teclado para acessibilidade.
 ✔ Código organizado seguindo boas práticas de desenvolvimento.
 
-🔗 Acesse meu Portfólio
-📌 LinkedIn: Meu Perfil
-📌 GitHub: Meu Repositório
+📌 LinkedIn: (https://www.linkedin.com/in/luizperego/)
+📌 GitHub: (https://github.com/LuizPerego97)
